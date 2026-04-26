@@ -68,8 +68,6 @@ Currently focused on building scalable, responsible, and future-ready AI solutio
 ![](https://nirzak-streak-stats.vercel.app/?user=Sheerin-Rizwana-Y&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheerin-Rizwana-Y&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sheerin-Rizwana-Y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -92,10 +90,6 @@ Currently focused on building scalable, responsible, and future-ready AI solutio
 🏦 **Treasurer** – Tamil Literary Club, CARE School of Engineering *(Aug 2025 – Present)*<br>
 📋 **Joint Secretary** – Tamil Literary Club *(Sep 2024 – Jun 2025)*
 
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 📍 *Based in Trichy, Tamil Nadu | Open to AI/ML internships and collaborations*
