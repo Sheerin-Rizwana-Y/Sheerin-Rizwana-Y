@@ -1,83 +1,79 @@
-# Hi there, I'm Sheerin Rizwana Y 👋
+# 💫 About Me:
+Hi, I'm **Sheerin Rizwana Y** — an AI & Data Science engineer who loves building intelligent, real-world solutions.<br><br>
+🤖 Passionate about **LLMs, RAG pipelines, and AI automation** — turning cutting-edge research into working products.<br>
+🛠️ I build end-to-end systems — from IoT backends to full-stack AI platforms.<br>
+📈 Always improving, always curious — currently diving deeper into **LangChain, Generative AI & Cloud-native AI**.<br><br>
+⚡ AI Enthusiast | 🧠 Lifelong Learner | 🤝 Open to Internships & Collaborations<br>
+Currently focused on building scalable, responsible, and future-ready AI solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheerinrizwanay)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sheerin-Rizwana-Y)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheerinrizwana.y@gmail.com)
-
----
-
-## 🚀 About Me
-
-🎓 **B.Tech AI & Data Science** student at CARE College of Engineering, Trichy *(CGPA: 8.83 | Class of 2027)*
-
-🤖 I build real-world AI solutions — from LLM-powered workflows and RAG pipelines to IoT systems and full-stack platforms.
-
-🌱 Currently exploring **LangChain**, **Generative AI**, and **Cloud-native AI deployment**
-
-💡 Believer in responsible, scalable, and future-ready AI
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheerinrizwanay)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheerinrizwana.y@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
 
-**Languages**
+**Languages**<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**AI / ML**<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**AI / ML**
+**Data**<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+**Frameworks & Backend**<br>
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Backend & Frameworks**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-**Data & Cloud**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+**Cloud & Tools**<br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects:
 
 ### 🧵 [YarnGuard – Real-Time Yarn Break Detection](https://github.com/Sheerin-Rizwana-Y/yarn-gurad)
-> IoT-based yarn break detection system for textile mills using **ESP32 + sensors + ThingSpeak cloud dashboard**. Flask & MongoDB backend for downtime analytics and production insights.
+> IoT system using **ESP32 + sensors + ThingSpeak cloud** to detect yarn breaks in real time. Flask & MongoDB backend for downtime analytics and production insights.
 
 ### 🏫 [CARE Connect+ – Campus Marketplace & Lost/Found Platform](https://github.com/Sheerin-Rizwana-Y/care-connect)
-> Full-stack campus platform built with **React + FastAPI + MongoDB** featuring secure login, AI-based item matching, and in-app messaging for buy/sell and lost-found use cases.
+> Full-stack platform with **React + FastAPI + MongoDB**, AI-based item matching, in-app messaging, and secure login for campus buy/sell and lost-found tracking.
 
 ### 🐛 [AI-Powered Debugging Assistant](https://github.com/Sheerin-Rizwana-Y/ai-debugging)
-> Intelligent debugging tool using **OCR + NLP + LLMs** to convert error screenshots into code and suggest fixes. Modular Flask + HTML/CSS/JS frontend to boost developer productivity.
+> Intelligent debugging tool using **OCR + NLP + LLMs** to convert error screenshots into code and suggest fixes. Flask + HTML/CSS/JS frontend.
 
-### 🌿 Circul AI – Sustainability Monitoring System *(private)*
-> AI-powered platform for **LCA analysis**, real-time monitoring, and automated sustainability report generation using Flask and AI automation techniques.
-
----
-
-## 🏆 Achievements
-
-- 🥈 **2nd Place** – ISOPTERONZ 2024 National Level Technical Symposium *(Smart Waste Segregation System)*
-- 🏦 **Treasurer** – Tamil Literary Club, CARE School of Engineering *(Aug 2025 – Present)*
-- 📋 **Joint Secretary** – Tamil Literary Club *(Sep 2024 – Jun 2025)*
+### 🤖 [AI Files Assistant](https://github.com/Sheerin-Rizwana-Y/AI-Files-Assistant)
+> AI-powered file management assistant for intelligent file operations and automation.
 
 ---
 
-## 📜 Certifications
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sheerin-Rizwana-Y&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sheerin-Rizwana-Y&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheerin-Rizwana-Y&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sheerin-Rizwana-Y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# 📜 Certifications:
 | Certification | Issuer | Year |
 |---|---|---|
 | Data Mining | NPTEL | 2026 |
@@ -91,13 +87,17 @@
 
 ---
 
-## 💼 Experience
-
-**AI Intern @ VDart Academy** *(Jun 2025 – Jul 2025 | Trichy, On-site)*
-- Developed AI-driven workflows using **LLMs and RAG** for automation and information retrieval
-- Built and optimized **LangChain pipelines** for intelligent automation
-- Gained hands-on experience with modern AI frameworks and **prompt engineering**
+# 🏆 Achievements:
+🥈 **2nd Place** – ISOPTERONZ 2024 National Level Technical Symposium *(Smart Waste Segregation System)*<br>
+🏦 **Treasurer** – Tamil Literary Club, CARE School of Engineering *(Aug 2025 – Present)*<br>
+📋 **Joint Secretary** – Tamil Literary Club *(Sep 2024 – Jun 2025)*
 
 ---
 
-*📍 Based in Trichy, Tamil Nadu | Open to AI/ML,FullStack internships and collaborations*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+📍 *Based in Trichy, Tamil Nadu | Open to AI/ML internships and collaborations*
+
+[![](https://visitcount.itsvg.in/api?id=Sheerin-Rizwana-Y&icon=0&color=0)](https://visitcount.itsvg.in)
